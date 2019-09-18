@@ -1,0 +1,52 @@
+* {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+html,body {
+	width: 100%;
+	height: 100%;
+}
+#app {
+	height: 100%;
+	min-width: 1280px;
+}
+#app>div {
+	height: 100%;
+}
+.el-container {
+  width: 100%;
+  height: 100%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.el-header {
+  width: 100%;
+}
+.el-textarea__inner:focus {
+	border: 1px solid #DCDFE6;
+}
+.el-input__inner:focus {
+	border: 1px solid #DCDFE6;
+}
+.el-select .el-input.is-focus .el-input__inner {
+	border: 1px solid #DCDFE6;
+}
+.el-select .el-input__inner:focus {
+	border: 1px solid #DCDFE6;
+}.el-menu-item {
+	background: transparent !important;
+}
+.el-button--primary:focus {
+	background: #f38916;
+}
+.el-radio__input.is-checked+.el-radio__label {
+	color: #f38916;
+}
+.el-radio__input.is-checked .el-radio__inner {
+	border-color: #f38916;
+    background: #f38916;
+}
+.el-radio__inner:hover{
+	border:1px solid #f38916;
+}

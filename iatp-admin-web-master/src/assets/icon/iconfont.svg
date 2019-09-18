@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="shangchuan" unicode="&#58968;" d="M768.35456 480a256 256 0 1 1-512 0 192 192 0 1 1 0-384v-64a256 256 0 0 0-58.88 505.216 320.128 320.128 0 0 0 629.76 0A256.128 256.128 0 0 0 768.35456 32v64a192 192 0 0 1 0 384z m-512-384h128v-64H256.35456v64z m384 0h128v-64h-128v64zM539.04256 306.816v-333.056a32.448 32.448 0 0 0-32-32.192 32.448 32.448 0 0 0-32 32.192V306.816l-36.096-36.096a32.192 32.192 0 0 0-45.056 0.192 31.616 31.616 0 0 0-0.192 45.056l90.88 90.88a31.36 31.36 0 0 0 22.528 9.152 30.08 30.08 0 0 0 22.4-9.088l90.88-90.944a32.192 32.192 0 0 0-0.192-45.056 31.616 31.616 0 0 0-45.056-0.192l-36.096 36.096z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
